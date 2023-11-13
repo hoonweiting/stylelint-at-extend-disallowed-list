@@ -17,5 +17,12 @@
     "stylelint",
     "stylelint-plugin",
     "scss"
-  ]
+  ],
+  "scripts": {
+    "lint": "npx eslint \"**/*.js\""
+  },
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "eslint-config-stylelint": "^20.0.0"
+  }
 }
