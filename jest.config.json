@@ -1,0 +1,9 @@
+{
+  "clearMocks": true,
+  "maxWorkers": "50%",
+  "preset": "jest-preset-stylelint",
+  "setupFiles": ["./jest.setup.js"],
+  "testEnvironment": "node",
+  "testRegex": "__tests__/.*\\.js$",
+  "workerIdleMemoryLimit": "50%"
+}

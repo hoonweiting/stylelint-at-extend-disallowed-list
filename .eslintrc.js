@@ -1,3 +1,9 @@
 module.exports = {
-  extends: ["stylelint"]
+  extends: [
+    "stylelint",
+    "stylelint/jest"
+  ],
+  globals: {
+    testRule: "readonly"
+  }
 };
