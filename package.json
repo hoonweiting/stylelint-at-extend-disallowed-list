@@ -13,6 +13,9 @@
     "url": "https://github.com/hoonweiting/stylelint-at-extend-disallowed-list/issues"
   },
   "homepage": "https://github.com/hoonweiting/stylelint-at-extend-disallowed-list#readme",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "stylelint",
     "stylelint-plugin",
