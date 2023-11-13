@@ -1,6 +1,6 @@
 {
   "name": "stylelint-at-extend-disallowed-list",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Stylelint rule for disallowing selectors to at-extend",
   "main": "index.js",
   "license": "MIT",
