@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-at-extend-disallowed-list",
+  "version": "0.0.0",
+  "description": "Stylelint rule for disallowing selectors to at-extend",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Wei Ting",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoonweiting/stylelint-at-extend-disallowed-list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hoonweiting/stylelint-at-extend-disallowed-list/issues"
+  },
+  "homepage": "https://github.com/hoonweiting/stylelint-at-extend-disallowed-list#readme",
+  "keywords": [
+    "stylelint",
+    "stylelint-plugin",
+    "scss"
+  ]
+}
